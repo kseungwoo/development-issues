@@ -9,6 +9,9 @@
 https://msmk530.tistory.com/72
 5. 도메인 주도 설계
 6. public vs private 
+7. 싱글톤
+8. 어플리케이션 컨텍스트
+9. 객체지향 5대 
 
 ## Flutter
 
