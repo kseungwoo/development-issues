@@ -18,3 +18,8 @@ https://msmk530.tistory.com/72
 
 1. provider 패턴
 2. slide_button
+
+## Python
+
+1. 얕은 복사 vs 깊은 복사
+2. 함수 파라미터로 리스트를 넘겨줄 때 얕은 복사
