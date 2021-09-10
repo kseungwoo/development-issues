@@ -1,5 +1,7 @@
 # development-issues
 
+## 자료구조
+1. ArrayList vs LinkedList
 
 ## Spring
 
