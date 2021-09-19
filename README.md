@@ -24,6 +24,7 @@ https://msmk530.tistory.com/72
 14. 커밋 vs 플러시
 15. 클래스 vs 객체 vs 
 16. 영속성 전이 + 고아 객체
+17. 서비스 layer 간의 종속관계? (순환 참조를 조심하자)
 
 ## Flutter
 
