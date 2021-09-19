@@ -23,6 +23,7 @@ https://msmk530.tistory.com/72
 13. 영속 vs 준영속 vs 
 14. 커밋 vs 플러시
 15. 클래스 vs 객체 vs 
+16. 영속성 전이 + 고아 객체
 
 ## Flutter
 
