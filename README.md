@@ -36,5 +36,7 @@ https://msmk530.tistory.com/72
 
 ## Python
 
-1. 얕은 복사 vs 깊은 복사
+1. 얕은 복사 vs 깊은 복사(deepcopy)
 2. 함수 파라미터로 리스트를 넘겨줄 때 얕은 복사
+3. if not () => java의 if !()와 같다.
+4. set을 이용한 visited 점검
