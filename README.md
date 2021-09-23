@@ -7,7 +7,7 @@
 1. BFS
 2. 플로이드-워셜 vs 다익스트라
 
-## Spring
+## Spring & JAVA
 
 1. Dependency Injection (의존성 주입)
 2. Dto와 Vo
@@ -26,6 +26,8 @@ https://msmk530.tistory.com/72
 15. 클래스 vs 객체 vs 인스턴스
 16. 영속성 전이 + 고아 객체
 17. 서비스 layer 간의 종속관계? (순환 참조를 조심하자)
+18. == vs equals
+19. Call by Reference vs Call by Value
 
 ## Flutter
 
