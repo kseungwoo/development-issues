@@ -6,6 +6,7 @@
 ## 알고리즘
 1. BFS
 2. 플로이드-워셜 vs 다익스트라
+3. 시간복잡도(Big-O, Time Complexity)에 대한 이해
 
 ## Spring & JAVA
 
@@ -28,7 +29,7 @@ https://msmk530.tistory.com/72
 17. 서비스 layer 간의 종속관계? (순환 참조를 조심하자)
 18. == vs equals
 19. Call by Reference vs Call by Value
-20. 제네릭과 와
+20. 제네릭과 와일드카드
 
 ## Flutter
 
