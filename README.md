@@ -28,6 +28,7 @@ https://msmk530.tistory.com/72
 17. 서비스 layer 간의 종속관계? (순환 참조를 조심하자)
 18. == vs equals
 19. Call by Reference vs Call by Value
+20. 제네릭과 와
 
 ## Flutter
 
